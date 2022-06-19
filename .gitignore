@@ -1,0 +1,5 @@
+venv/
+flask_session/
+__pycache__/
+backend/__pycache__/
+frontend/node_modules/
