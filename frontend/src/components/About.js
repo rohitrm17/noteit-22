@@ -11,7 +11,7 @@ function About() {
                 </h4>
                 <br />
                 <p style={{fontSize: '20px'}}>
-                  NoteIt is a noting app. Information can be stored in text form for timely useage.
+                  NoteIt is a noting app. Information can be stored in text form for timely usage.
                   One can add a new note, edit existing note and delete a note. 
                 </p>
             </div>
